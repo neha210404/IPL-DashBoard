@@ -109,10 +109,14 @@ Trend Analysis: Understand scoring patterns and tournament evolution
 Strategic Insights: Useful for cricket analysts, fans, and sports data researchers
 
 6. Screenshots / Demo
+
 Dashboard Preview 
+
 https://github.com/neha210404/IPL-DashBoard/blob/main/Snapshot%20of%20IPL%20DashBoard.png
 
 
 👩‍💻 Author
+
 Neha Khandagle
+
 Data Analyst | Power BI Developer
